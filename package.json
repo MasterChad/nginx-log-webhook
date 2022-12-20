@@ -1,0 +1,7 @@
+{
+  "author": "Sale gosse le beau gosse",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "tail": "^2.2.4"
+  }
+}

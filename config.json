@@ -1,0 +1,4 @@
+{
+  "accesslog": "/var/log/nginx/access.log", // default
+  "webhook": "" // put your webhook here
+}
